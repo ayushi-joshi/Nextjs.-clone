@@ -714,7 +714,7 @@ background-repeat: no-repeat;
    }
    .project{
     height: 50%;
-    background-color: yellow;
+   
     background-image: url("img/preview-notion.avif");
     box-shadow: 11px 9px 5px 0px rgba(0,0,0,0.75);
 -webkit-box-shadow: 11px 9px 5px 0px rgba(0,0,0,0.75);
